@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## This is Mustafa Akkaya
+### Hello,👋 this is Mustafa Akkaya
 
 **akkayatr/akkayatr** i
 
