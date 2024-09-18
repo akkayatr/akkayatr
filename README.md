@@ -1,5 +1,6 @@
-### Hi, I'm Mustafa Akkaya! 👋
+### Hello, I'm Mustafa Akkaya! 👋
 
-I'm a **full-stack developer** from **Istanbul, Turkey**, working with both **front-end** (React, JavaScript) and **back-end** (Node.js, PHP) technologies. I freelance remotely, always eager to learn and take on exciting projects.
+I'm a **full-stack developer** based in **Istanbul, Turkey**, with a passion for both **front-end** and **back-end** technologies. I work as a **freelancer**, embracing the flexibility of remote work. I'm enthusiastic about learning and applying new technologies in web development.
 
-Let's connect and create something amazing!
+I love contributing to **open source projects** and building cool things on my GitHub profile. Feel free to connect if you'd like to collaborate or chat about tech!
+
