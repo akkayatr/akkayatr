@@ -1,34 +1,18 @@
-# 👋 Hello, I'm Mustafa Akkaya!
+# Hello, I'm Mustafa Akkaya! 👋
 
-I'm a **full-stack developer** based in **Istanbul, Turkey**, passionate about front-end and back-end technologies.  
-I work as a **freelancer**, focusing on custom projects mostly kept private for clients.
-
----
-
-## 🚀 Skills & Expertise  
-
-### Front-end  
-🔹 React & Vue.js  
-🔹 HTML5, CSS3, Tailwind CSS  
-
-### Back-end  
-🔹 Node.js, Express  
-🔹 PHP, Laravel  
-🔹 PostgreSQL, MongoDB  
-
-### DevOps & Tools  
-🔹 Docker, CI/CD, AWS, CyberPanel  
-🔹 Git, VS Code, Postman  
+I'm a **full-stack developer** based in **Istanbul, Turkey**, working as a freelancer.  
+I’m passionate about front-end and back-end development, always eager to learn and contribute to exciting projects.
 
 ---
 
-## 💻 What I Do  
-
-I build **scalable** and **efficient** web applications tailored to client needs. Whether it’s **e-commerce**, **SaaS platforms**, or **API development**,  
-I ensure clean code and maintainability.
+⭐️ **My GitHub Profile**  
+💻 **What am I building?** (Check out my repositories)  
+📚 **Tech interests:** JavaScript, React, Node.js, PHP, Laravel  
+🚀 **Currently learning:** Cloud & DevOps tools like Docker, AWS, CyberPanel  
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/mustafaakkaya) | [Twitter](https://twitter.com/mustafaakkaya)
 
 ---
 
-## 🌟 Fun Fact  
-
-I enjoy **hiking** and **nature photography** — great ways to recharge and get inspired.
+### P.S.  
+I love coding, hiking, and photography — great ways to stay inspired and energized.  
+Feel free to reach out if you want to collaborate or just chat about tech! 👨‍💻
