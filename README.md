@@ -7,7 +7,7 @@ I’m passionate about front-end and back-end development, always eager to learn
 
 ⭐️ **My GitHub Profile**  
 💻 **What am I building?** (Check out my repositories)  
-📚 **Tech interests:** JavaScript, React, Node.js, PHP, Laravel  
+📚 **Tech interests:** JavaScript, React,Next.js, Vue, Nuxt Node.js  
 🚀 **Currently learning:** Cloud & DevOps tools like Docker, AWS, GCP
 ---
 
