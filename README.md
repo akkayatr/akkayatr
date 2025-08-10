@@ -8,9 +8,7 @@ I’m passionate about front-end and back-end development, always eager to learn
 ⭐️ **My GitHub Profile**  
 💻 **What am I building?** (Check out my repositories)  
 📚 **Tech interests:** JavaScript, React, Node.js, PHP, Laravel  
-🚀 **Currently learning:** Cloud & DevOps tools like Docker, AWS, CyberPanel  
-📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/mustafaakkaya) | [Twitter](https://twitter.com/mustafaakkaya)
-
+🚀 **Currently learning:** Cloud & DevOps tools like Docker, AWS, GCP
 ---
 
 ### P.S.  
